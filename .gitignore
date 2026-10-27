@@ -1,0 +1,4 @@
+# Keep the repo small and focused.
+*.pyc
+__pycache__/
+screenshots/*_capture.txt
